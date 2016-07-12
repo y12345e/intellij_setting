@@ -1,0 +1,26 @@
+<application>
+  <component name="ErrorReportConfigurable">
+    <option name="ITN_LOGIN" value="" />
+    <option name="ITN_PASSWORD_CRYPT" value="" />
+    <option name="KEEP_ITN_PASSWORD" value="false" />
+    <option name="EMAIL" value="" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/bin/node">
+      <version-cache version="0.10.37" last-modified="1427136521000" />
+    </local-interpreter>
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="http://svn.slightlymagic.net/forge/trunk/" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="http://svn.slightlymagic.net/forge/trunk/" />
+        <option value="http://svn.slightlymagic.net/forge/trunk" />
+      </list>
+    </option>
+  </component>
+</application>
