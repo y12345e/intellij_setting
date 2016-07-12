@@ -1,5 +1,5 @@
 <application>
   <component name="HgGlobalSettings">
-    <option name="myHgExecutable" value="hg.exe" />
+    <option name="myHgExecutable" value="/usr/bin/hg" />
   </component>
 </application>
